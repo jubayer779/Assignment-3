@@ -14,7 +14,11 @@ function kilometerToMeter(kilometer) {
 //call kilometerToMeter function and store return value
 var resultMeter = kilometerToMeter(-10);
 console.log(resultMeter); // print value in console log
+
+
+
                            // budgetCalculator 
+
 
 function budgetCalculator(watchs, phones, laptops) {
     //chech watchs, phones and laptop value nagative or not if navative than return with error message. 
@@ -43,7 +47,7 @@ console.log(resultTotatBudget);
 
 
 
-                                            //hotelCost
+                                 //hotelCost
 
 function hotelCost(days) {
     // check days value is nagative or not 
@@ -82,7 +86,7 @@ console.log( totalHotelCost);
 
 
 
-                                    //megaFriend   
+                                //megaFriend   
 
 function megaFriend(arr) {
     // check it's array or not, if not array than return with message.
